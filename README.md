@@ -1,5 +1,8 @@
 # Fabryka 1892 – Rodzina Walczaków 🏭
 
+[![Build & publish](https://github.com/adscisel-alt/fabryka-1892/actions/workflows/build.yml/badge.svg)](https://github.com/adscisel-alt/fabryka-1892/actions/workflows/build.yml)
+**Zagraj w przeglądarce:** https://adscisel-alt.github.io/fabryka-1892/
+
 Gra symulacyjna w duchu **The Sims** (grafika 3D w stylu zbliżonym do **The Sims 3**) o życiu
 rodziny robotniczej w **Łodzi w 1892 roku**. Gracz opiekuje się czteroosobową rodziną Walczaków
 (Józef – tkacz, Marianna – prządka, dwunastoletni Antek i dziewięcioletnia Zosia), która właśnie
